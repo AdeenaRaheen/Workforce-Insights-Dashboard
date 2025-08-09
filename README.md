@@ -3,7 +3,7 @@
 Excel project designed to analyze key workforce metrics such as demographics, attrition rates, and performance trends to help business leaders make data-driven decisions.
 
 ## Dashboard Preview
-![Workforce Insights Dashboard](<img width="1342" height="617" alt="Untitled" src="https://github.com/user-attachments/assets/9d1e2268-f1c2-4266-afb1-46413edbaabd" />)
+<img width="1342" height="617" alt="Workforce Insights" src="https://github.com/user-attachments/assets/a071df73-2689-421e-a5a5-3d81abe42895" />
 
 
 ## Key Features
@@ -18,8 +18,11 @@ Excel project designed to analyze key workforce metrics such as demographics, at
 
 ## Key Insights
 Overall Attrition Rate: Currently at 19.70%. This immediately flags the need for ongoing retention strategies.
+
 Departmental Hotspots: Identified that Operations has an attrition rate of 20.54%, and Sales is at 20.79%, significantly higher than IT at 18.56%. This points directly to areas needing deeper investigation!
+
 Performance & Attrition: We can now see if we're losing our top talent. For instance, employees rated Below Expectations have an attrition rate of 20.98%, while those Exceeding Expectations are at 19.35%.
+
 Age Group Trends: The 50-59 age group shows an attrition rate of 20.84%, indicating potential challenges with retaining experienced talent.
 Reasons for Leaving: Resignation accounts for 191 departures, while Layoffs were 199
 
