@@ -28,10 +28,16 @@ Reasons for Leaving: Resignation accounts for 191 departures, while Layoffs were
 
 This dashboard empowers HR managers to move from reactive to proactive decision-making, enabling targeted interventions, refining retention strategies, and fostering a healthier, more productive workforce.
 
+## Data Source
+Generate Data Automatically Through Python Faker Script
+
 Author
 *Adeena Raheen*
+
 *03145363560*
+
 *aadeenaraeen@gmail.com*
+
 *https://www.linkedin.com/in/adeena-raheen-data-analyst/*
 ## Data Source
 - [Briefly describe the data source, e.g., "Dummy HR data from a Kaggle dataset."]
